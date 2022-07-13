@@ -15,6 +15,7 @@
     "fetch-mock": "^9.11.0",
     "gh-pages": "^3.2.3",
     "nock": "^13.1.4",
+    "node-fetch": "^2.6.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.6",
